@@ -1,0 +1,19 @@
+{
+  "name": "dls-components",
+  "version": "1.0.0",
+  "description": "npm projects for dls reuse",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/warrierashvin/dlsComponents.git"
+  },
+  "author": "Ashvin Kumar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/warrierashvin/dlsComponents/issues"
+  },
+  "homepage": "https://github.com/warrierashvin/dlsComponents#readme"
+}
